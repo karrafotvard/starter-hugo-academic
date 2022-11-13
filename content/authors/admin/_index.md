@@ -12,13 +12,13 @@ social:
   - display:
       header: false
     link: https://www.facebook.com/karrakroppsvard.se/
-    icon_pack: fas
-    icon: envelope
+    icon_pack: fab
+    icon: facebook
   - display:
       header: false
     link: https://www.instagram.com/karrakroppsvard/
-    icon_pack: fas
-    icon: envelope
+    icon_pack: fab
+    icon: instagram
 organizations:
   - name: " Axelson Institute, Stockholm"
     url: https://axelsons.se/
