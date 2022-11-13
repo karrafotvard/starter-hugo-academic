@@ -28,11 +28,11 @@ content:
     country_code: SE
   contact_links:
     - icon: facebook
-      icon_pack: brand
+      icon_pack: fab
       name: Facebook
       link: https://www.facebook.com/karrakroppsvard.se/
     - icon: instagram
-      icon_pack: brand
+      icon_pack: fab
       name: Instagram
       link: https://www.instagram.com/karrakroppsvard/
   coordinates:
