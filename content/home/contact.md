@@ -14,8 +14,8 @@ content:
       captcha: false
   autolink: true
   office_hours:
-    - Måndag till Torsdag: 10:00 - 17:00
-    - Fredag: 10:00 - 14:00
+    - Måndag - Torsdag 10:00 - 17:00
+    - Fredag 10:00 - 14:00
   phone: 031 - 57 16 16
   appointment_url: https://www.bokadirekt.se/places/k%C3%A4rra-kroppsv%C3%A5rd--6985
   directions: Du hittar Kärra Kroppsvård på Kärra simhall i Kärra Centrum
