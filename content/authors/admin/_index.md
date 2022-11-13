@@ -1,7 +1,7 @@
 ---
 title: Mira Romedahl
 role: Dipl. Medicinsk fotterapeut
-avatar_filename: assets/media/mira-1.jpg
+avatar_filename: avatar.jpg
 bio: Kärra Kroppsvård grundades 2000 och drivs sedan 1 Juli 2022 av Mira Romedahl.
 interests:
   - Medicinsk fotterapeut
