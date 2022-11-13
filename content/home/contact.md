@@ -14,31 +14,31 @@ content:
       captcha: false
   autolink: true
   office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-  phone: 888 888 88 88
-  appointment_url: https://calendly.com
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    - Måndag till Torsdag: 10:00 - 17:00
+    - Fredag: 10:00 - 14:00
+  phone: 031 - 57 16 16
+  appointment_url: https://www.bokadirekt.se/places/k%C3%A4rra-kroppsv%C3%A5rd--6985
+  directions: Du hittar Kärra Kroppsvård på Kärra simhall i Kärra Centrum
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: "94305"
-    country: United States
-    country_code: US
+    street: Kärra centrum 20
+    city: Hisings Kärra
+    region: Västra Götaland
+    postcode: "42534"
+    country: Sverige
+    country_code: SE
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/Twitter
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: https://zoom.com
+    - icon: facebook
+      icon_pack: brand
+      name: Facebook
+      link: https://www.facebook.com/karrakroppsvard.se/
+    - icon: instagram
+      icon_pack: brand
+      name: Instagram
+      link: https://www.instagram.com/karrakroppsvard/
   coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
-  email: test@example.org
+    latitude: "57.7945"
+    longitude: "11.9873"
+  email: info@karrakroppsvard.se
 design:
   columns: "2"
 ---
