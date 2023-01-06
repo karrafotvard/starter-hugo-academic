@@ -1,4 +1,6 @@
 ---
+widget: hero
+active: true
 sections:
   - block: hero
     content:
@@ -43,14 +45,13 @@ sections:
         gradient_end: "#1976d2"
         gradient_start: "#004ba0"
         text_color_light: true
-widget: hero
 widget_id: hero
 weight: 5
-title: Hem
-active: true
+title: Välkommen till Kärra Fotvård!
+subtitle: Behandlingar för kropp & själ!
 design:
-  columns: "2"
+  columns: ""
   background:
     image: 20ma.jpg
 ---
-## Välkommen till Kärra Kroppsvård!
+## <http://karrakroppsvard.bokadirekt.se/>B﻿oka Tid
