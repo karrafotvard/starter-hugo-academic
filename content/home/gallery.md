@@ -1,6 +1,6 @@
 ---
 widget: markdown
-widget_id: gallery
+widget_id: Bilder
 headless: true
 weight: 6
 title: Gallery
