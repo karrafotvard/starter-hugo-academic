@@ -7,9 +7,12 @@ main:
   - name: Hem
     url: '#hero'
     weight: 10
-  - name: Behandlingar
+  - name: Fotvård
     url: '#projects'
     weight: 20
+  - name: Massage
+    url: '#projects'
+    weight: 21
   - name: Produkter
     url: '#skills'
     weight: 30
