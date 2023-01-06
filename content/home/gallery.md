@@ -2,7 +2,7 @@
 widget: markdown
 widget_id: gallery
 headless: true
-weight: 135
+weight: 6
 title: Gallery
 subtitle: null
 active: true
