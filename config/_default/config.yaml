@@ -10,7 +10,7 @@ baseURL: 'https://karrafotvard.se/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: sv
+defaultContentLanguage: se
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
