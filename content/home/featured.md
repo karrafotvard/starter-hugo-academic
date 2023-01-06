@@ -2,7 +2,7 @@
 widget: collection
 widget_id: presentkort
 headless: true
-weight: 129
+weight: 128
 title: Presentkort
 subtitle: ""
 active: true
