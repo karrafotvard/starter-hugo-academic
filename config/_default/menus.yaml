@@ -4,22 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Hem
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Behandlingar
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Produkter
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Om Kärra Fotvård
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Presentkort
     url: '#featured'
     weight: 50
-  - name: Contact
+  - name: Kontakt
     url: '#contact'
     weight: 60
 
