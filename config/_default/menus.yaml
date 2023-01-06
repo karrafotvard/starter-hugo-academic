@@ -8,10 +8,10 @@ main:
     url: '#about'
     weight: 10
   - name: Behandlingar
-    url: '#posts'
+    url: '#projects'
     weight: 20
   - name: Produkter
-    url: '#projects'
+    url: '#skills'
     weight: 30
   - name: Om Kärra Fotvård
     url: '#talks'
