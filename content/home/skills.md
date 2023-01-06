@@ -1,5 +1,5 @@
 ---
-widget: features
+widget: collection
 widget_id: produkter
 headless: true
 weight: 127
