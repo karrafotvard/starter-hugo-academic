@@ -1,19 +1,13 @@
 ---
-# An instance of the Blank widget with a Gallery page element.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: markdown
-
-# This file represents a page section.
+widget_id: gallery
 headless: true
-
-# Order that this section appears on the page.
-weight: 66
-
+weight: 135
 title: Gallery
-subtitle:
-
+subtitle: null
+active: true
 design:
-  columns: '1'
+  columns: "1"
 ---
 
 {{< gallery album="demo" >}}
