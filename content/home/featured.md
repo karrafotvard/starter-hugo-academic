@@ -1,37 +1,26 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: collection
-
-# This file represents a page section.
+widget_id: presentkort
 headless: true
-
-# Order that this section appears on the page.
-weight: 80
-
-title: Featured Publications
-subtitle: ''
-
+weight: 129
+title: Presentkort
+subtitle: ""
+active: true
 content:
-  # Page type to display. E.g. post, talk, publication...
   page_type: publication
-  # Choose how many pages you would like to display (0 = all pages)
   count: 0
-  # Filter on criteria
   filters:
     featured_only: true
-    author: ''
-    category: ''
-    publication_type: ''
-    tag: ''
-  # Page order: descending (desc) or ascending (asc) date.
+    author: ""
+    category: ""
+    publication_type: ""
+    tag: ""
   order: desc
-
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
   view: 3
 ---
+Vill du ge bort ett presentkort?
+
+Maila önskat värde på presentkortet och namn och adress dit du vill att presentkortet skall skickas till info@karrakroppsvard.se. Betala med Swish 123 308 68 99. Kontrollera att mottagaren är Kärra Kroppsvård AB.
+
+Vi skickar presentkortet första vardagen efter att vi mottagit din betalning. Våra presentkort gäller i 12 månader. Du kan självklart också köpa presentkort hos Kärra Kroppsvård på Kärra simhall.
