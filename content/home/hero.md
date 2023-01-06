@@ -54,4 +54,4 @@ design:
   background:
     image: 20ma.jpg
 ---
-## <http://karrakroppsvard.bokadirekt.se/>B﻿oka Tid
+## ﻿[Boka Tid](http://karrakroppsvard.bokadirekt.se/)[](http://karrakroppsvard.bokadirekt.se/)
