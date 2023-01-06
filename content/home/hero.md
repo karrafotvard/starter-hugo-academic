@@ -48,4 +48,9 @@ widget_id: hero
 weight: 5
 title: Hem
 active: true
+design:
+  columns: "2"
+  background:
+    image: 20ma.jpg
 ---
+## Välkommen till Kärra Kroppsvård!
