@@ -52,6 +52,6 @@ subtitle: Behandlingar för kropp & själ!
 design:
   columns: ""
   background:
-    image: 20ma.jpg
+    image: fotvard-karra-kroppsvard-bild-3.jpg
 ---
 ## ﻿[Boka Tid](http://karrakroppsvard.bokadirekt.se/)[](http://karrakroppsvard.bokadirekt.se/)
