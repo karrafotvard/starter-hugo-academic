@@ -5,7 +5,7 @@
 
 main:
   - name: Hem
-    url: '#about'
+    url: '#hero'
     weight: 10
   - name: Behandlingar
     url: '#projects'
@@ -14,7 +14,7 @@ main:
     url: '#skills'
     weight: 30
   - name: Om Kärra Fotvård
-    url: '#talks'
+    url: '#about'
     weight: 40
   - name: Presentkort
     url: '#featured'
