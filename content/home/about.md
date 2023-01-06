@@ -2,7 +2,7 @@
 widget: about
 widget_id: om-karrafotvard
 headless: true
-weight: 129
+weight: 128
 title: Om Kärra Fotvård
 active: true
 author: admin
